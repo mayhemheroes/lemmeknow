@@ -1,0 +1,5 @@
+project: lemmeknow
+target: identifier_bytes
+duration: 600
+cmds:
+    - cmd: /fuzzers/fuzz_identifier_bytes
